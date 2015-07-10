@@ -1,4 +1,4 @@
-package ifCondition;
+package condition;
 
 import java.util.Scanner;
 /*
@@ -6,7 +6,7 @@ import java.util.Scanner;
  * @ Author : Chae S W
  * @ Story : 성적계산기 메소드
  */
-public class CalcAvg {
+public class CalcAvg_class {
 	public void calcAvg(){
 		// 선언부
 				Scanner scanner = new Scanner(System.in);

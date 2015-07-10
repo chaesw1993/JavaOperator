@@ -1,4 +1,4 @@
-package whileLoop;
+package loop;
 /*
  * @ Date : 2015.07.09
  * @ Author : Chae S W
@@ -6,7 +6,9 @@ package whileLoop;
  */
 public class whileLoopDemo2_Main {
 	public static void main(String[] args) {
+		// 선언부
 		int idx = 0;
+		// 연산부		
 		while (true) {	// 무한루프 사용 선언
 			idx++;
 			System.out.print(idx + "\t");
