@@ -1,6 +1,6 @@
 package loop;
 /*
- * @ Date : 2015.07.10
+ * @ Date : 2015.07.13
  * @ Author : Chae S W
  * @ Story : for-loop을 활용한 1부터 10까지 합
  */
